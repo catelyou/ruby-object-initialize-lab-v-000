@@ -14,7 +14,7 @@ class Dog
   end
 
   def breed= (breed)
-    @breed = breed
+    @breed = "mutt"
   end
 
   def breed
